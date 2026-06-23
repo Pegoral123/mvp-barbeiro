@@ -4,3 +4,4 @@ export default defineConfig({
   vite: {
     base: '/mvp-barbeiro/',
   }
+});
