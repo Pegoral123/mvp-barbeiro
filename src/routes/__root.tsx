@@ -32,7 +32,3 @@ export const Route = createRootRoute({
 function RootComponent() {
   return <Outlet />;
 }
-
-function RootComponent() {
-  return <Outlet />;
-}
